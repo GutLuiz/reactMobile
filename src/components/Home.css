@@ -1,0 +1,15 @@
+.Home {
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+    height: 100vh; /* Altura total da tela */
+    background-color: #f0f0f0; /* Cor de fundo leve */
+  }
+  
+  .Home h2 {
+    font-size: 2rem; /* Tamanho do texto */
+    color: #333; /* Cor do texto */
+    text-align: center; /* Centraliza o texto */
+    margin: 0; /* Remove margens padrão */
+  }
+  
